@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/CMakeFiles/bootloader
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/CMakeFiles/bootloader.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/CMakeFiles/bootloader-complete.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

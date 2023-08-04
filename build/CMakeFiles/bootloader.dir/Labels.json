@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/mwakaambrose/esp/projects/theone-pureOs/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

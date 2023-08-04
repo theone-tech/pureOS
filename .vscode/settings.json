@@ -12,5 +12,10 @@
     ],
     "idf.port": "/dev/cu.usbmodem11201",
     "idf.pythonBinPath": "/Users/mwakaambrose/.espressif/python_env/idf5.2_py3.11_env/bin/python",
-    "idf.toolsPath": "/Users/mwakaambrose/.espressif"
+    "idf.toolsPath": "/Users/mwakaambrose/.espressif",
+    "files.associations": {
+        "functional": "c",
+        "ui.h": "c"
+    },
+    "idf.flashType": "UART"
 }
